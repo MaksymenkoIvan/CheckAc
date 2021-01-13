@@ -1,1 +1,1 @@
-java -jar brawl_stars_last
+java -jar brawl_stars_last.jar
